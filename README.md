@@ -28,6 +28,7 @@
 
 ## 📌 Featured Projects
 
+- 💼 **[Vic – Vacancy Intelligent Classifier](https://github.com/Tatianafp/VIC)** - AI-powered job matching system using Retrieval-Augmented Generation (RAG)
 - 📝 **[Candice](https://github.com/Tatianafp/Candice)** - Text mining and NLP analysis project
 - 🗄️ **[Comecta](https://github.com/Tatianafp/Comecta)** - Database design and implementation
 

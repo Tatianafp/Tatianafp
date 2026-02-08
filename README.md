@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Tatiana Pereira
+# Hey there! 👋 I'm Tati
 
 <p align="center">
   <a href="https://linkedin.com/in/tatiana-franco-pereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

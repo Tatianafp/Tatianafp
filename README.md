@@ -9,7 +9,7 @@
 ## 💻 About me
 
 - 🎓 Computer Science BSc @ University of Brasília (UnB)
-- 💼 Data Engineer @ Snow Fox AI
+- 💼 AI Engineer @ Snow Fox AI
 - 🤖 Specialized in **LLMs, RAG systems, and production data pipelines**
 - 🌱 Building scalable data infrastructure for 15+ renewable energy farms
 - 📊 4+ years developing AI solutions across finance, education, and energy sectors

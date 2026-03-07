@@ -31,5 +31,5 @@
 ## Featured Projects
 
 - **[DiggVis](https://github.com/Tatianafp/DiggVis_Contratos)**: Visual analytics for public contract auditing using LLMs, semantic embeddings, and interactive clustering. Undergraduate thesis awarded maximum grade (SS) at UnB.
-- **[VIC](https://github.com/Tatianafp/vic-job-match-ai)**: AI-powered job matching using RAG. Analyzes job descriptions against candidate profiles and provides structured fit assessments.
+- **[Joana](https://github.com/Tatianafp/joana-job-analyzer)**: RAG-based job analysis tool that evaluates job descriptions against a resume, identifying match strength, skill gaps, and overall role alignment.
 - **[TatikToken](https://github.com/Tatianafp/tatiktoken)**: Custom Byte Pair Encoding (BPE) tokenizer built from scratch, inspired by GPT architecture, with parallel processing support.
